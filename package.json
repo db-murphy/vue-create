@@ -4,7 +4,7 @@
   "description": "create vue a component file",
   "main": "index.js",
   "bin": {
-    "vueCreate": "./vueCreate.js"
+    "vueCreate": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
