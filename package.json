@@ -1,0 +1,32 @@
+{
+  "name": "vue-create",
+  "version": "1.0.0",
+  "description": "create vue a component file",
+  "main": "index.js",
+  "bin": {
+    "vueCreate": "./vueCreate.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/db-murphy/vue-create.git"
+  },
+  "keywords": [
+    "create",
+    "vue",
+    "component"
+  ],
+  "author": "rainbolean@sina.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/db-murphy/vue-create/issues"
+  },
+  "homepage": "https://github.com/db-murphy/vue-create#readme",
+  "dependencies": {
+    "colorful": "^2.1.0",
+    "commander": "^2.15.1",
+    "shelljs": "^0.8.1"
+  }
+}
